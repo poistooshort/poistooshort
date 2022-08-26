@@ -1,6 +1,9 @@
 <h1>hey there <img src="./shaka.gif" alt="shaka animated"/></h1>
 <p>I'm Po, a full stack web developer who's always itching to learn something new.</p>
 
+<h2>Currently In : Miami 🌴</h2>
+<img alt="miami landscape" src="location.png" />
+
 <h3>my coding toolbox</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F0DB4F" />
