@@ -1,8 +1,8 @@
 <h1>hey there <img src="./shaka.gif" alt="shaka animated"/></h1>
 <p>I'm Po, a full stack web developer who's always itching to learn something new.</p>
 
-<h2>Currently In : Miami 🌴</h2>
 <img alt="miami landscape" src="location.png" />
+<h2>Currently In : Miami 🌴</h2>
 
 <h3>my coding toolbox</h3>
 <p>
