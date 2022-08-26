@@ -1,6 +1,6 @@
-### hey there   ![ animated shaka ](shaka.gif)
+<h1>hey there <img src="./shaka.gif" alt="shaka animated"/></h1>
 
-my coding toolbox
+<h2>my coding toolbox</h2>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 <!--
