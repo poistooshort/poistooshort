@@ -1,4 +1,4 @@
-### hey there ![ animated shaka ](shaka.gif) / ! [](shaka.gif)
+### hey there ![ animated shaka ](shaka.gif)
 
 
 
