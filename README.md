@@ -1,6 +1,7 @@
 ### hey there   ![ animated shaka ](shaka.gif)
 
-
+my coding toolbox
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 <!--
 **polin0517/polin0517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
