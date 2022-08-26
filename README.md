@@ -14,7 +14,7 @@
 <h3>auxiliary toolbox</h3>
 <p>
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-001E36?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
-  <img alt="Nuke" src="https://img.shields.io/badge/-Nuke-001E36?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
+  <img alt="Nuke" src="https://img.shields.io/badge/-Nuke-e9b142?style=flat-square&logo=nuke&logoColor=010101" />
 </p>
 
 <!--
