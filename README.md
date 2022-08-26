@@ -1,6 +1,6 @@
 <h1>hey there <img src="./shaka.gif" alt="shaka animated"/></h1>
 
-<h2>my coding toolbox</h2>
+<h3>my coding toolbox</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F0DB4F" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=F29111" />
@@ -11,7 +11,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h2>auxiliary toolbox</h2>
+<h3>auxiliary toolbox</h3>
 <p>
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-001E36?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
   <img alt="Nuke" src="https://img.shields.io/badge/-Nuke-001E36?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF" />
