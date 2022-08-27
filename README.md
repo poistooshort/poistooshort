@@ -16,6 +16,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-cccccc?style=flat-square&logo=vim&logoColor=019833" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-ffffff?style=flat-square&logo=visual-studio-code&logoColor=0085d0" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-Express-323330?style=flat-square&logo=javascript&logoColor=F0DB4F" />
 </p>
 <h3>auxiliary toolbox</h3>
 <p>
