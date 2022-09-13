@@ -26,7 +26,7 @@
 
 <h3>⚠👷‍ Currently Working On :</h3>
 <h4>brainFit</h4>
-<p>This is my CapStone project at BrainStation. I'm still in the process of adding to this and getting it to where I'm happy with this. Will be made public soon!</p>
+<p>This is my CapStone project at BrainStation. I'm still in the process of adding to this and getting it to where I'm happy with this. Has been made pre-maturely public so bear with me! 🙂</p>
 
 <h3>let's connect!</h3>
 <a href="https://www.linkedin.com/in/po-ting-lin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
